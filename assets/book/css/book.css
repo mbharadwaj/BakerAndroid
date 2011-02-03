@@ -1,0 +1,52 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 75%;
+}
+
+#wrapper {
+	border: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+#wrapper h1 {
+	font-size: 1.8em;
+	text-align: center;
+}
+
+#wrapper h2 {
+	font-size: 1.6em;
+	text-align: center;
+}
+
+#wrapper p {
+	font-size: 1.2em;
+	text-align: left;
+}
+
+#wrapper img.left {
+	float: left;
+	padding: 5px 10px 0 0;
+    width: 50%;
+	height: 50%;
+}
+
+#wrapper img.right {
+	float: right;
+	padding: 5px 0 0 10px;
+    width: 50%;
+	height: 50%;
+}
+
+#wrapper img.center {
+    float: center;
+    width: 50%;
+	height: 50%;
+}
+
+#wrapper img.cover {
+    float: center;
+    padding: 10px;
+    width: 50%;
+	height: 50%;
+}
