@@ -1,0 +1,20 @@
+Project BakerAndroid
+HTML5 Ebook framework for Android
+Inspired by BakerFramework (http://bakerframework.com/)
+Copyright (C) 2010, Manoj Bharadwaj
+Licensed under BSD Opensource License.
+
+
+About BakerFramework
+====================
+
+Please refer to http://bakerframework.com
+
+
+About BakerAndroid
+==================
+
+An e-book for Android using the exact approach used in Baker Framework, and in fact using the same files.
+* copy the contents of the "book/" folder to "assets"
+* package and release using "ant release"
+* sign up for an Android account to be able to publish to Android market
